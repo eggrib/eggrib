@@ -36,6 +36,7 @@ Building fast native desktop tools, Telegram bots, Web Audio instruments, and al
 | Project | What it does | Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **[tabletka](https://github.com/eggrib/tabletka)** | Native 60-FPS Dynamic Island & 16-in-1 desktop widget hub for Windows | `C#` `.NET 8` `WPF` | [Download](https://tabletka.699718.space/?utm_source=github&utm_medium=profile&utm_campaign=eggrib_profile) · [Repo](https://github.com/eggrib/tabletka) |
+| **tabletkaCompanion** | Native Android companion & PC remote via QR + `relay.699718.space` | `Kotlin` `Compose` | [Android Page](https://699718.space/companion.html?utm_source=github&utm_medium=profile&utm_campaign=eggrib_profile) |
 | **tabletkaConnect** | Instant remote access key service (EU/DE) with 2-hour free trial | `Go` `Fiber` `SQLite` | [Try 2h Free](https://shop.699718.space/?utm_source=github&utm_medium=profile&utm_campaign=eggrib_profile) |
 | **[MAS_699](https://github.com/eggrib/MAS_699)** | Multi-agent LLM debate & orchestration bot in Telegram (`@mas699bot`) | `Go` `Redis` | [Open Bot](https://t.me/mas699bot) · [Repo](https://github.com/eggrib/MAS_699) |
 | **[shazam699_bot](https://github.com/eggrib/shazam699_bot)** | Fast Telegram bot for music recognition & audio lookup (`@Shazam699_bot`) | `Go` `Telegram API` | [Open Bot](https://t.me/Shazam699_bot) · [Repo](https://github.com/eggrib/shazam699_bot) |
